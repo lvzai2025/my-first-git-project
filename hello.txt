@@ -1,4 +1,8 @@
-Hello from main!
+<<<<<<< HEAD
+Hello from both branches!
+=======
+Hello from feature!
+>>>>>>> test-feature
 This is version 2.
 This is from feature branch.
 <<<<<<< HEAD
