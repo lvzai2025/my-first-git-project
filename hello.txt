@@ -1,4 +1,8 @@
-Hello Git!
+Hello from main!
 This is version 2.
 This is from feature branch.
+<<<<<<< HEAD
 main branch line
+=======
+feature branch line
+>>>>>>> test-feature
